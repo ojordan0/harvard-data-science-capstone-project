@@ -1,1 +1,2 @@
-# harvard-data-science-capstone-project
+# EdX - Harvard Professional Certificate in Data Science: Capstone Project.
+
